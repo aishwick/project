@@ -1,0 +1,92 @@
+score: 
+int =
+5263
+secure_media: 
+dict =
+{'oembed': {'provider_url': 'https://www.youtube.com/', 'title': 'Need to Know - The Mass Surveillance Thriller Game - Kickstarter trailer', 'html': '<iframe width="356" height="200" src="https://www.youtube.com/embed/ZaXJ16SU-HY?featu...ller Game - Kickstarter trailer"></iframe>', 'thumbnail_width': 480, 'height': 200, 'width': 356, 'version': '1.0', 'author_name': 'Monomyth Games', 'provider_name': 'YouTube', 'thumbnail_url': 'https://i.ytimg.com/vi/ZaXJ16SU-HY/hqdefault.jpg', 'type': 'video', 'thumbnail_height': 360, 'author_url': 'https://www.youtube.com/@MonomythGames'}, 'type': 'youtube.com'}
+secure_media_embed: 
+dict =
+{'content': '<iframe width="356" height="200" src="https://www.youtube.com/embed/ZaXJ16SU-HY?featu...ller Game - Kickstarter trailer"></iframe>', 'width': 356, 'scrolling': False, 'media_domain_url': 'https://www.redditmedia.com/mediaembed/469d0a', 'height': 200}
+selftext: 
+str =
+''
+selftext_html: 
+NoneType =
+None
+send_replies: 
+bool =
+True
+shortlink: 
+str =
+'https://redd.it/469d0a'
+spoiler: 
+bool =
+False
+stickied: 
+bool =
+False
+subreddit: 
+Subreddit =
+Subreddit(display_name='gaming')
+subreddit_id: 
+str =
+'t5_2qh03'
+subreddit_name_prefixed: 
+str =
+'r/gaming'
+subreddit_subscribers: 
+int =
+44149700
+subreddit_type: 
+str =
+'public'
+suggested_sort: 
+NoneType =
+None
+thumbnail: 
+str =
+'https://b.thumbs.redditmedia.com/fQv81gMT0YP6gPjT8nR92K8b737V5XjMaCt81Z_5iEY.jpg'
+thumbnail_height: 
+int =
+105
+thumbnail_width: 
+int =
+140
+title: 
+str =
+'This game takes the privacy invasion of Papers, Please to another level'
+top_awarded_type: 
+NoneType =
+None
+total_awards_received: 
+int =
+0
+treatment_tags: 
+list =
+[]
+int =
+No debugger available, can not send 'variables'
+ups: 
+int =
+5263
+upvote_ratio: 
+float =
+0.92
+url: 
+str =
+'https://www.youtube.com/watch?v=ZaXJ16SU-HY'
+url_overridden_by_dest: 
+str =
+'https://www.youtube.com/watch?v=ZaXJ16SU-HY'
+user_reports: 
+list =
+[]
+view_count: 
+NoneType =
+None
+visited: 
+bool =
+False
+wls: 
+int =
+6
